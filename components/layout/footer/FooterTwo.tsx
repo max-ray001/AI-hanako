@@ -30,19 +30,10 @@ const FooterTwo = () => {
                     <div className="footer__nav-list">
                       <ul className="justify-content-center justify-content-lg-start">
                         <li>
-                          <Link href="/">Home</Link>
+                          <Link href="/">Plan</Link>
                         </li>
                         <li>
-                          <Link href="about-us">About Us</Link>
-                        </li>
-                        <li>
-                          <Link href="shop">Shop</Link>
-                        </li>
-                        <li>
-                          <Link href="blog">Blog</Link>
-                        </li>
-                        <li>
-                          <Link href="contact-us">Contact Us</Link>
+                          <Link href="about-us">Contact Us</Link>
                         </li>
                       </ul>
                     </div>
@@ -94,36 +85,21 @@ const FooterTwo = () => {
                 <p className="tertiary-text d-none d-lg-block">Follow Us :</p>
                 <div className="social">
                   <Link
-                    href="https://www.facebook.com/"
-                    target="_blank"
-                    aria-label="share us on facebook"
-                    title="facebook"
-                  >
-                    <i className="bi bi-facebook"></i>
-                  </Link>
-                  <Link
                     href="https://www.twitter.com/"
                     target="_blank"
                     aria-label="share us on twitter"
                     title="twitter"
                   >
-                    <i className="bi bi-twitter"></i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><path fill="currentColor" d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07l-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/></svg>
+                    {/* <i className="bi bi-twitter"></i> */}
                   </Link>
                   <Link
                     href="https://www.linkedin.com/"
                     target="_blank"
-                    aria-label="share us on pinterest"
-                    title="linkedin"
+                    aria-label="share us on line"
+                    title="line"
                   >
-                    <i className="bi bi-linkedin"></i>
-                  </Link>
-                  <Link
-                    href="https://www.instagram.com/"
-                    target="_blank"
-                    aria-label="share us on instagram"
-                    title="instagram"
-                  >
-                    <i className="bi bi-instagram"></i>
+                    <i className="bi bi-line"></i>
                   </Link>
                 </div>
               </div>

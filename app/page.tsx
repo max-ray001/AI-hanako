@@ -36,7 +36,7 @@ const page = () => {
         {/* <VideoSection /> */}
         {/* <GenerationTwo /> */}
         <PricingPlan />
-        <BlogOne />
+        {/* <BlogOne /> */}
       </main>
       <Footer />
       <InitCustomCursor />

@@ -50,8 +50,8 @@ const PricingPlan = () => {
                 <span className="primary-text">トライアル</span>
                 {isYearly ? (
                   <h2 className="light-title yearly">
-                    ￥49,800
-                    <span>/ yearly</span>
+                    ￥498,000
+                    <span>/ 年</span>
                   </h2>
                 ) : (
                   <h2 className="light-title monthly">
@@ -94,8 +94,8 @@ const PricingPlan = () => {
                 <span className="primary-text">スタンダード</span>
                 {isYearly ? (
                   <h2 className="light-title yearly">
-                    ￥98,900
-                    <span>/ yearly</span>
+                    ￥989,000
+                    <span>/ 年</span>
                   </h2>
                 ) : (
                   <h2 className="light-title monthly">
@@ -138,8 +138,8 @@ const PricingPlan = () => {
                 <span className="primary-text premium">プレミアム</span>
                 {isYearly ? (
                   <h2 className="light-title yearly">
-                    ￥149,800
-                    <span>/ yearly</span>
+                    ￥1,498,000
+                    <span>/ 年</span>
                   </h2>
                 ) : (
                   <h2 className="light-title monthly">

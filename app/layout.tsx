@@ -51,8 +51,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Aikeu | Artificial Neural Network AI React NextJs Template",
-  description: "Artificial Neural Network AI React NextJs Template",
+  title: "AI HANAKO | AI Image Generator",
+  description: "Generate your favourite AI images.",
   keywords: [
     "Artificial",
     "Ai",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Pixelaxis",
+      name: "max-dev",
       url: "https://themeforest.net/user/pixelaxis",
     },
   ],

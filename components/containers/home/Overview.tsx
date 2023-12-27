@@ -25,9 +25,9 @@ const Overview = () => {
                 <Image src={one} alt="Image" priority />
               </div>
               <div className="overview__content">
-                <h4>スムーズな AI ツールでの対応</h4>
+                <h4>スムーズな AI ツール</h4>
                 <p className="tertiary-text">
-                  AI HANAKO は、魅惑的な AI ツールにてあらゆる要望を対応致します。
+                  AI HANAKO は、AI ツールにてあらゆる要望を対応致します。
                 </p>
               </div>
             </div>
@@ -82,7 +82,7 @@ const Overview = () => {
                 <Image src={four} alt="Image" priority />
               </div>
               <div className="overview__content">
-                <h4>すべての業種・用途に対応</h4>
+                <h4>すべての業種・用途に</h4>
                 <p className="tertiary-text">
                   AI HANAKO  は、全ての全ジャンルの業種に対応しております。
                 </p>

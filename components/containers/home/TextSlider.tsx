@@ -30,8 +30,8 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="Generator">
+                Generator
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />
@@ -44,8 +44,8 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="Generator">
+              Generator
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />
@@ -58,8 +58,8 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="Generator">
+              Generator
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />
@@ -72,8 +72,8 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="Generator">
+              Generator
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />
@@ -86,8 +86,8 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="Generator">
+              Generator
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />
@@ -100,8 +100,8 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="Generator">
+              Generator
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />
@@ -114,8 +114,8 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="Generator">
+              Generator
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />

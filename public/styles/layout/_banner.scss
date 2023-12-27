@@ -45,12 +45,12 @@
       content: "";
       position: absolute;
       inset: 0px;
-      top: 50%;
+      top: 80%;
       background-color: var(--primary-color);
       z-index: -1;
       width: 110%;
       left: 50%;
-      height: 90%;
+      height: 60%;
       z-index: -1;
       opacity: 0.5;
       transform: translateY(-50%) translateX(-50%) rotate(-5deg);
@@ -141,7 +141,7 @@
     @include box(230px);
     font-size: 50px;
     color: var(--primary-color);
-    background-color: rgba(228, 0, 119, 1);
+    background-color: #72024e;
     z-index: 1;
     img {
       width: calc(100% - 20px);

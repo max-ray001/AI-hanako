@@ -58,14 +58,6 @@ const CaseStudyDetails = () => {
                         <p className="tertiary-text text-white">Share</p>
                         <div className="social">
                           <Link
-                            href="https://www.facebook.com/"
-                            target="_blank"
-                            aria-label="share us on facebook"
-                            title="facebook"
-                          >
-                            <i className="bi bi-facebook"></i>
-                          </Link>
-                          <Link
                             href="https://www.twitter.com/"
                             target="_blank"
                             aria-label="share us on twitter"
@@ -74,20 +66,12 @@ const CaseStudyDetails = () => {
                             <i className="bi bi-twitter"></i>
                           </Link>
                           <Link
-                            href="https://www.linkedin.com/"
-                            target="_blank"
-                            aria-label="share us on pinterest"
-                            title="linkedin"
-                          >
-                            <i className="bi bi-linkedin"></i>
-                          </Link>
-                          <Link
                             href="https://www.instagram.com/"
                             target="_blank"
-                            aria-label="share us on instagram"
-                            title="instagram"
+                            aria-label="share us on line"
+                            title="line"
                           >
-                            <i className="bi bi-instagram"></i>
+                            <i className="bi bi-line"></i>
                           </Link>
                         </div>
                       </div>
